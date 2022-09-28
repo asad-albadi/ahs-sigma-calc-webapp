@@ -1,11 +1,11 @@
 {
-    "name": "sigma_calculator_flutter_edition",
-    "short_name": "sigma_calculator_flutter_edition",
+    "name": "ahs Sigma Calculator",
+    "short_name": "ahs Sigma",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Sigma Calculator is a conversions tool, Currencies, VAT, Percentage, and Loans.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
