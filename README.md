@@ -1,4 +1,4 @@
 # ahs-sigma-calc-webapp
 
-https://github.com/Deava0/ahs-sigma-calc-webapp
+https://deava0.github.io/ahs-sigma-calc-webapp/#/
  
