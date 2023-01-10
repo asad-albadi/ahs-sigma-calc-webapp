@@ -1,11 +1,11 @@
 {
-    "name": "VFOM Tech Ops: We Care",
-    "short_name": "We Care",
+    "name": "ahs Sigma Calculator",
+    "short_name": "ahs Sigma",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#000000",
-    "theme_color": "#000000",
-    "description": "VFOM TECH OPS Presents...WE CARE Tool for Customer Care.",
+    "background_color": "#424242",
+    "theme_color": "#424242",
+    "description": "Sigma Calculator is a conversions tool, Currencies, VAT, Percentage, and Loans.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
